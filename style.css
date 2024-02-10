@@ -12,6 +12,14 @@ header img {
     margin-top: 6px;
 }
 
+.fire1 {
+    float: left;
+}
+
+.fire2 {
+    float: right;
+}
+
 header font {
     font-size: 36px;
     color: white;
@@ -23,7 +31,7 @@ header font {
 }
 
 header {
-    padding: 0px 11px 6px 11px;
+    padding: 10px 11px 15px 11px;
     text-align: center;
 }
 
@@ -38,14 +46,17 @@ footer {
     padding: 5px 0px 5px 10px;
 }
 
-h1 {
+.h1 {
     color: white;
     border: 2px #0F5315 solid;
     background-color: #48952D;
     border-radius: 10px;
     padding: 6px;
     text-align: center;
-    margin: 10px 208px 20px 208px;
+    font-size: 32px;
+    max-width: 388px;
+    margin: auto;
+    margin-top: 10px;
 }
 
 .tableImg {
@@ -67,6 +78,7 @@ table p {
 table {
     border-collapse: collapse;
     margin-left: 20px;
+    margin: auto;
 }
 
 td {
@@ -120,8 +132,4 @@ a {
     font-size: 24px;
     text-decoration: none;
     margin: 21px 0px 21px 0px;
-}
-
-table {
-    margin: auto;
 }
