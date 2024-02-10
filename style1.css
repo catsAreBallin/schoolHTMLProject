@@ -12,6 +12,15 @@ header img {
     margin-top: 6px;
 }
 
+.fire1 {
+    float: left;
+}
+
+.fire2 {
+    float: right;
+}
+
+
 header font {
     font-size: 36px;
     color: white;
@@ -23,7 +32,7 @@ header font {
 }
 
 header {
-    padding: 0px 11px 6px 11px;
+    padding: 10px 11px 15px 11px;
     text-align: center;
 }
 
@@ -54,6 +63,7 @@ li {
 }
 
 ul {
+    margin-left: 15%;
     list-style: url(https://github.com/catsAreBallin/schoolHTMLProject/blob/main/CIRCLE-CHAN.png?raw=true);
 }
 
