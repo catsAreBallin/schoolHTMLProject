@@ -72,3 +72,7 @@ a {
     text-decoration: none;
     margin: 21px 0px 21px 0px;
 }
+
+table {
+    margin: auto;
+}
